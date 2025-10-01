@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "About",
+    "career": "Career",
+    "projects": "Projects",
+    "education": "Education",
+    "certificates": "Certificates"
+  },
+  "about": {
+    "title": "About",
+    "greeting": "Hello, I'm Aytaç Serçe.",
+    "birth": "I was born in İstanbul in 1988 and completed my education here.",
+    "scholarship": "I focused on foreign languages in high school and earned a scholarship in college for a student camp in the United Kingdom.",
+    "graduation": "I graduated from university with degrees in both officer training and engineering.",
+    "work_experience": "I have worked as an officer in İzmir, Eskişehir, and Malatya. I later returned to İzmir as an instructor and received another scholarship for a safety course in the United States.",
+    "current_position": "Now I am back in İstanbul, working as a Frontend Engineer.",
+    "family": "I am married and have two children.",
+    "portfolio": "This is my personal portfolio site which I developed using Next.js and TailwindCSS.",
+    "update": "Last Update: October 2025"
+  },
+  "career": {
+    "title": "Career",
+    "zebra": "Zebra Electronics",
+    "english_teacher": "English Teacher",
+    "english": "American Lang. and Lit. Foreign Lang. Schools",
+    "officer": "Officer",
+    "nat_def_unv": "National Defence University",
+    "zebra_desc": "Worked on two web apps using Angular and TypeScript. Developed an admin panel with React and Material UI.",
+    "freelance_desc": "Developed various web sites including organic farm, construction and sports wear sites with different technologies.",
+    "english_desc": "Started as an instructor and was offered coordinator position after 5 months.",
+    "nat_def_unv_desc": "Started my career as a hard-working trainee and graduated first. Worked under stressful and difficult conditions and later appointed as a teacher. Taught avionics to hundreds of trainees every term. Later instructed seniors and multinationals. Finally was the youngest to attend to new aircraft project for testing UI/UX designs and avionics."
+  },
+  "education": {
+    "title": "Education",
+    "anatolia": "Anatolian Unv",
+    "patika": "Patika.dev",
+    "self": "Self-Taught",
+    "nat_def_unv": "National Defence University",
+    "anatolia_desc": "Bachelor's Degree - Management Information Systems",
+    "patika_desc": "Angular Practicum, Bootcamp Acceleration Program",
+    "self_desc_1": "Responsive Web Sites with HTML & CSS",
+    "self_desc_2": "Javascript Expert",
+    "self_desc_3": "Advanced CSS and SASS",
+    "self_desc_4": "Ultimate React & Redux",
+    "self_desc_5": "Git - Version Control",
+    "self_desc_6": "Java Spring",
+    "nat_def_unv_desc": "Bachelor's Degree - Electronic Engineering"
+  },
+  "certificates": {
+    "title": "Certificates",
+    "view-certificate": "View Certificate",
+    "html-css-course": "Build Responsive Real-World Web Sites with HTML and CSS",
+    "sass-course": "Advanced CSS and Sass",
+    "javascript-course": "The Complete JavaScript Course",
+    "react-course": "The Ultimate React Course: React, Next.js, Redux",
+    "node-course": "Node.js, Express, MongoDB",
+    "java-course": "Core Java, Java OOP and Spring Boot",
+    "html-course": "Web Development with HTML5"
+  },
+  "footer": {
+    "copyright": "© {{year}} Aytac Serce"
+  }
+}
