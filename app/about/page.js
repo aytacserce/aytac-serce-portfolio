@@ -1,5 +1,5 @@
 "use client";
-import { useI18n } from "./src/i18n/i18n";
+import { useI18n } from "../src/i18n/i18n";
 
 export default function Page() {
   const { t } = useI18n();
@@ -8,10 +8,6 @@ export default function Page() {
     <div>
       <h1 className="text-4xl font-bold mb-4 pb-2 border-b border-gray-300">
         {t("about.title")}
-      </h1>
-
-      <h1 className="text-3xl leading-relaxed text-gray-700">
-        👋 {t("about.greeting")}
       </h1>
 
       <p className="text-2xl leading-relaxed text-gray-700">
@@ -31,12 +27,6 @@ export default function Page() {
       </p>
       <p className="text-2xl leading-relaxed text-gray-700">
         👨‍👩‍👧‍👦 {t("about.family")}
-      </p>
-      <p className="text-2xl leading-relaxed text-gray-700">
-        🪪 {t("about.portfolio")}
-      </p>
-      <p className="text-2xl leading-relaxed text-gray-700">
-        📅 {t("about.update")}
       </p>
     </div>
   );

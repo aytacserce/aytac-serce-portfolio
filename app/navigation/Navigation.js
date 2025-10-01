@@ -1,0 +1,40 @@
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useI18n } from "../src/i18n/i18n";
+
+const navItems = [
+  { href: "/", label: "nav.about" },
+  { href: "/career", label: "nav.career" },
+  { href: "/projects", label: "nav.projects" },
+  { href: "/education", label: "nav.education" },
+  { href: "/certificates", label: "nav.certificates" },
+];
+
+export default function Navigation() {
+  const pathname = usePathname();
+  const { t } = useI18n();
+  return (
+    <ul className="flex flex-col w-full px-4 space-y-2">
+      {navItems.map((item) => {
+        const isActive = pathname === item.href;
+
+        return (
+          <li key={item.href}>
+            <Link
+              href={item.href}
+              className={`block text-xl px-3 py-2 rounded-lg transition-colors ${
+                isActive
+                  ? "bg-gray-700 text-white font-semibold"
+                  : "text-gray-300 hover:bg-gray-700 hover:text-white"
+              }`}
+            >
+              {t(item.label)}
+            </Link>
+          </li>
+        );
+      })}
+    </ul>
+  );
+}

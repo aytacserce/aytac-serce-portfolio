@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "Hakkımda",
+    "career": "Kariyer",
+    "projects": "Projeler",
+    "education": "Eğitim",
+    "certificates": "Sertifikalar"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "greeting": "Merhaba, ben Aytaç Serçe.",
+    "birth": "1988 yılında İstanbul'da doğdum ve eğitimimi burada tamamladım.",
+    "scholarship": "Lise yıllarında yabancı dile yoğunlaştım ve üniversitede İngiltere'de bir öğrenci kampı için burs kazandım.",
+    "graduation": "Üniversiteden hem subaylık hem de mühendislik dereceleri ile mezun oldum.",
+    "work_experience": "İzmir, Eskişehir ve Malatya'da subay olarak çalıştım. Daha sonra İzmir'e eğitmen olarak döndüm ve ABD'de bir güvenlik kursu için başka bir burs kazandım.",
+    "current_position": "Şimdi İstanbul'a geri döndüm ve Frontend Mühendisi olarak çalışıyorum.",
+    "family": "Evliyim ve iki çocuğum var.",
+    "portfolio": "Bu benim Next.js ve Tailwind CSS kullanarak oluşturduğum kişisel portföy web sitem.",
+    "update": "Son Güncelleme: Kasım 2025"
+  },
+  "career": {
+    "title": "Kariyer",
+    "zebra": "Zebra Elektronik",
+    "english_teacher": "İngilizce Öğretmeni",
+    "english": "Amerikan Dili ve Edebiyatı Yabancı Dil Okulları",
+    "officer": "Subay",
+    "nat_def_unv": "Milli Savunma Üniversitesi",
+    "zebra_desc": "Angular ve TypeScript kullanarak geliştirilmiş iki web uygulamasının idamesi ve yeni modüller eklenmesinde çalıştım. Ayrıca React ve Material UI ile bir yönetim paneli geliştirdim ve yayınladım.",
+    "freelance_desc": "Organik tarım, inşaat ve spor giyim siteleri dahil olmak üzere farklı teknolojilerle çeşitli web siteleri geliştirdim.",
+    "english_desc": "Eğitmen olarak başladım ve 5 ay sonra koordinatörlük pozisyonu teklif edildi.",
+    "nat_def_unv_desc": "Kariyerime kursiyer olarak başladım ve birincilikle mezun oldum. Zorlayıcı ve stresli koşullarda görev yaptım, ardından öğretmen olarak atandım. Her dönem yüzlerce kursiyere aviyonik dersleri verdim. Daha sonra kıdemlilere ve yabancı uyruklulara eğitim verdim. Son olarak, yeni uçak projesinde UI/UX tasarımları ve aviyonik testlerinde görev alan en genç kişi oldum."
+  },
+  "education": {
+    "title": "Eğitim",
+    "anatolia": "Anadolu Üniversitesi",
+    "patika": "Patika.dev",
+    "self": "Kendi Kendine Öğrenim",
+    "nat_def_unv": "Milli Savunma Üniversitesi",
+    "anatolia_desc": "Lisans - Yönetim Bilişim Sistemleri",
+    "patika_desc": "Angular Practicum, Bootcamp Hızlandırma Programı",
+    "self_desc_1": "HTML & CSS ile Duyarlı Web Siteleri",
+    "self_desc_2": "JavaScript Uzmanı",
+    "self_desc_3": "İleri Seviye CSS ve SASS",
+    "self_desc_4": "Kapsamlı React & Redux",
+    "self_desc_5": "Git - Versiyon Kontrolü",
+    "self_desc_6": "Java Spring",
+    "nat_def_unv_desc": "Lisans - Elektronik Mühendisliği"
+  },
+  "certificates": {
+    "title": "Sertifikalar",
+    "view-certificate": "Sertifika Görüntüle",
+    "html-css-course": "HTML ve CSS ile Gerçek Responsive Web Siteleri Geliştirme",
+    "sass-course": "İleri Seviye CSS ve Sass",
+    "javascript-course": "Kapsamlı JavaScript Kursu",
+    "react-course": "İleri Seviye React Kursu: React, Next.js, Redux",
+    "node-course": "Node.js, Express, MongoDB",
+    "java-course": "Core Java, Java OOP and Spring Boot",
+    "html-course": "HTML5 ile Web Geliştirme"
+  },
+  "footer": {
+    "copyright": "© {{year}} Aytaç Serçe"
+  }
+}
