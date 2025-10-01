@@ -55,7 +55,12 @@
     "react-course": "The Ultimate React Course: React, Next.js, Redux",
     "node-course": "Node.js, Express, MongoDB",
     "java-course": "Core Java, Java OOP and Spring Boot",
-    "html-course": "Web Development with HTML5"
+    "html-course": "Web Development with HTML5",
+    "website-course": "Website Usability",
+    "git-course": "Version Control with Git and Github",
+    "btk-react-course": "Web Programming with React",
+    "safety-course": "International Flight Safety Officer Course",
+    "english": "YDS Exam Result"
   },
   "footer": {
     "copyright": "© {{year}} Aytac Serce"
