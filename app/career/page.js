@@ -6,19 +6,19 @@ export default function Page() {
   // Local JobCard component
   const JobCard = ({ position, company, year, description }) => (
     <div className="bg-white shadow-md rounded-xl p-6 mb-6 border border-gray-200">
-      <h2 className="text-2xl font-bold text-gray-900">{position}</h2>
-      <div className="flex items-center text-lg text-gray-500 mb-2">
+      <h2 className="text-xl font-bold text-gray-900">{position}</h2>
+      <div className="flex items-center text-md text-gray-500 mb-2">
         <span>{company}</span>
         <span className="mx-2">•</span>
         <span>{year}</span>
       </div>
-      <p className="text-xl text-gray-700 leading-relaxed">{description}</p>
+      <p className="text-lg text-gray-700 leading-relaxed">{description}</p>
     </div>
   );
 
   return (
     <div>
-      <h1 className="text-4xl font-bold mb-4 pb-2 border-b border-gray-300">
+      <h1 className="text-3xl font-bold mb-4 pb-2 border-b border-gray-300">
         {t("career.title")}
       </h1>
 

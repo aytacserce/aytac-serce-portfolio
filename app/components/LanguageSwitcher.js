@@ -6,7 +6,7 @@ export default function LanguageSwitcher() {
   const { lang, setLang } = useI18n();
 
   return (
-    <div className="flex gap-2 pb-4">
+    <div className="flex gap-2">
       <button
         onClick={() => setLang("en")}
         className={`px-3 py-1 rounded ${

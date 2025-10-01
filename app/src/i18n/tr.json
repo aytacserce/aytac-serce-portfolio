@@ -54,8 +54,13 @@
     "javascript-course": "Kapsamlı JavaScript Kursu",
     "react-course": "İleri Seviye React Kursu: React, Next.js, Redux",
     "node-course": "Node.js, Express, MongoDB",
-    "java-course": "Core Java, Java OOP and Spring Boot",
-    "html-course": "HTML5 ile Web Geliştirme"
+    "java-course": "Temel Java, Java OOP ve Spring Boot",
+    "html-course": "HTML5 ile Web Geliştirme",
+    "website-course": "Web Sitesi Kullanılabilirliği",
+    "git-course": "Versiyon Kontrolleri: Git ve GitHub",
+    "btk-react-course": "React ile Web Programcılığı",
+    "safety-course": "Uluslararası Havacılık Güvenliği Eğitimi",
+    "english": "YDS Sınav Sonucu"
   },
   "footer": {
     "copyright": "© {{year}} Aytaç Serçe"

@@ -10,18 +10,18 @@ export default function Page() {
   // Local SchoolCard component
   const SchoolCard = ({ school, year, description }) => (
     <div className="bg-white shadow-md rounded-xl p-6 mb-6 border border-gray-200">
-      <h2 className="text-2xl font-bold text-gray-900">{school}</h2>
-      <div className="flex items-center text-lg text-gray-500 mb-2">
+      <h2 className="text-xl font-bold text-gray-900">{school}</h2>
+      <div className="flex items-center text-md text-gray-500 mb-2">
         <span>{year}</span>
       </div>
       {Array.isArray(description) ? (
-        <ul className="list-disc list-inside text-xl text-gray-700 leading-relaxed">
+        <ul className="list-disc list-inside text-lg text-gray-700 leading-relaxed">
           {description.map((item, idx) => (
             <li key={idx}>{item}</li>
           ))}
         </ul>
       ) : (
-        <p className="text-xl text-gray-700 leading-relaxed">{description}</p>
+        <p className="text-lg text-gray-700 leading-relaxed">{description}</p>
       )}
     </div>
   );
