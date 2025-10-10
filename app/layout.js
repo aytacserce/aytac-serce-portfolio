@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
                 </div>
               </div>
 
-              <div className="flex-1" />
+              <div className="flex-1 mb-3" />
 
               <LanguageSwitcher />
             </aside>
