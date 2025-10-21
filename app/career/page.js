@@ -26,28 +26,56 @@ export default function Page() {
         position="Frontend Developer"
         company={t("career.zebra")}
         year="2023 – 2025"
-        description={t("career.zebra_desc")}
+        description={t("career.zebra_desc")
+          .split("\n")
+          .map((line, i) => (
+            <span key={i}>
+              {line}
+              <br />
+            </span>
+          ))}
       />
 
       <JobCard
         position="Frontend Developer"
         company="Freelance"
         year="2022 – 2023"
-        description={t("career.freelance_desc")}
+        description={t("career.freelance_desc")
+          .split("\n")
+          .map((line, i) => (
+            <span key={i}>
+              {line}
+              <br />
+            </span>
+          ))}
       />
 
       <JobCard
         position={t("career.english_teacher")}
         company={t("career.english")}
         year="2021 – 2022"
-        description={t("career.english_desc")}
+        description={t("career.english_desc")
+          .split("\n")
+          .map((line, i) => (
+            <span key={i}>
+              {line}
+              <br />
+            </span>
+          ))}
       />
 
       <JobCard
         position={t("career.officer")}
         company={t("career.nat_def_unv")}
         year="2010 – 2021"
-        description={t("career.nat_def_unv_desc")}
+        description={t("career.nat_def_unv_desc")
+          .split("\n")
+          .map((line, i) => (
+            <span key={i}>
+              {line}
+              <br />
+            </span>
+          ))}
       />
     </div>
   );

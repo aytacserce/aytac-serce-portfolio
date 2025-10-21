@@ -9,13 +9,13 @@
   "about": {
     "title": "Hakkımda",
     "greeting": "Merhaba, ben Aytaç Serçe.",
-    "birth": "1988 yılında İstanbul'da doğdum ve eğitimimi burada tamamladım.",
-    "scholarship": "Lise yıllarında yabancı dile yoğunlaştım ve üniversitede İngiltere'de bir öğrenci kampı için burs kazandım.",
-    "graduation": "Üniversiteden hem subaylık hem de mühendislik dereceleri ile mezun oldum.",
-    "work_experience": "İzmir, Eskişehir ve Malatya'da subay olarak çalıştım. Daha sonra İzmir'e eğitmen olarak döndüm ve ABD'de bir güvenlik kursu için başka bir burs kazandım.",
-    "current_position": "Şimdi İstanbul'a geri döndüm ve Frontend Mühendisi olarak çalışıyorum.",
-    "family": "Evliyim ve iki çocuğum var.",
-    "portfolio": "Bu benim Next.js ve Tailwind CSS kullanarak oluşturduğum kişisel portföy web sitem.",
+    "about_me": "Frontend Mühendisi olarak React, Next.js, Angular ve Tailwind CSS teknolojileriyle modern, performanslı ve kullanıcı dostu web uygulamaları geliştiriyorum.",
+    "graduation": "Üniversitede mühendislik eğitimi aldım ve hem teknik disiplin hem analitik düşünme becerilerimi frontend geliştirme alanına taşıdım.",
+    "work_experience": "Kariyerimin ilk yıllarında subay ve eğitmen olarak görev yaparken planlama, takım çalışması ve detay odaklılık konularında güçlü bir temel kazandım. Bu beceriler bugün kod yazarken, tasarımları optimize ederken ve kullanıcı deneyimini geliştirirken bana büyük avantaj sağlıyor.",
+    "scholarship": "ABD’de güvenlik kursu bursu kazanmam sayesinde uluslararası bir çevrede disiplinli ve çözüm odaklı çalışma alışkanlığı edindim.",
+    "current_position": "Şu anda İstanbul’da yaşıyorum ve freelance veya tam zamanlı projelerde Frontend Mühendisi olarak çalışıyorum.",
+    "portfolio": "Bu portföy sitesini Next.js ve Tailwind CSS kullanarak geliştirdim.",
+    "family": "Evli ve iki çocuk babasıyım.",
     "update": "Son Güncelleme: Ekim 2025"
   },
   "career": {
@@ -23,12 +23,12 @@
     "zebra": "Zebra Elektronik",
     "english_teacher": "İngilizce Öğretmeni",
     "english": "Amerikan Dili ve Edebiyatı Yabancı Dil Okulları",
-    "officer": "Subay",
+    "officer": "Subay / Eğitmen",
     "nat_def_unv": "Milli Savunma Üniversitesi",
-    "zebra_desc": "Angular ve TypeScript kullanarak geliştirilmiş iki web uygulamasının idamesi ve yeni modüller eklenmesinde çalıştım. Ayrıca React ve Material UI ile bir yönetim paneli geliştirdim ve yayınladım.",
-    "freelance_desc": "Organik tarım, inşaat ve spor giyim siteleri dahil olmak üzere farklı teknolojilerle çeşitli web siteleri geliştirdim.",
-    "english_desc": "Eğitmen olarak başladım ve 5 ay sonra koordinatörlük pozisyonu teklif edildi.",
-    "nat_def_unv_desc": "Kariyerime kursiyer olarak başladım ve birincilikle mezun oldum. Zorlayıcı ve stresli koşullarda görev yaptım, ardından öğretmen olarak atandım. Her dönem yüzlerce kursiyere aviyonik dersleri verdim. Daha sonra kıdemlilere ve yabancı uyruklulara eğitim verdim. Son olarak, yeni uçak projesinde UI/UX tasarımları ve aviyonik testlerinde görev alan en genç kişi oldum."
+    "zebra_desc": "Angular ve TypeScript kullanarak geliştirilen iki kurumsal web uygulamasının bakımını ve yeni modüllerinin eklenmesini sağladım.\nReact ve Material UI ile şirket içi bir yönetim paneli geliştirdim.\nKullanıcı deneyimini iyileştirmek için performans optimizasyonları ve responsive tasarım düzenlemeleri yaptım.",
+    "freelance_desc": "Organik tarım, inşaat ve spor giyim sektörlerine ait web siteleri geliştirdim.\nNext.js, Tailwind CSS ve JavaScript kullanarak modern, hızlı ve SEO dostu arayüzler oluşturdum.\nMüşteri ihtiyaçlarına göre UI/UX düzenlemeleri ve içerik yönetimi entegrasyonları yaptım.",
+    "english_desc": "Eğitmen olarak göreve başladım ve beş ay içinde koordinatörlük pozisyonuna yükseldim.\nEğitim materyalleri hazırladım ve öğretim planlarının dijitalleştirilmesine katkıda bulundum.\nBu dönemde iletişim, sunum ve organizasyon becerilerimi geliştirdim.",
+    "nat_def_unv_desc": "Kariyerime kursiyer olarak başlayıp birincilikle mezun oldum ve ardından öğretmen olarak atandım.\nYoğun tempolu ortamlarda planlama, ekip yönetimi ve detay odaklı çalışma alışkanlıkları kazandım.\nYüzlerce kursiyere aviyonik dersleri verdim ve yabancı uyruklu personele eğitim verdim.\nYeni uçak projesinde UI/UX tasarımları ve aviyonik test süreçlerinde görev aldım."
   },
   "education": {
     "title": "Eğitim",
@@ -36,15 +36,14 @@
     "patika": "Patika.dev",
     "self": "Kendi Kendine Öğrenim",
     "nat_def_unv": "Milli Savunma Üniversitesi",
-    "anatolia_desc": "Lisans - Yönetim Bilişim Sistemleri",
-    "patika_desc": "Angular Practicum, Bootcamp Hızlandırma Programı",
-    "self_desc_1": "HTML & CSS ile Duyarlı Web Siteleri",
-    "self_desc_2": "JavaScript Uzmanı",
-    "self_desc_3": "İleri Seviye CSS ve SASS",
-    "self_desc_4": "Kapsamlı React & Redux",
-    "self_desc_5": "Git - Versiyon Kontrolü",
-    "self_desc_6": "Java Spring",
-    "nat_def_unv_desc": "Lisans - Elektronik Mühendisliği"
+    "anatolia_detail": "Lisans – Yönetim Bilişim Sistemleri",
+    "patika_detail": "Angular Practicum & Bootcamp Hızlandırma Programı",
+    "self_detail": "Frontend Development Odaklı Eğitimler",
+    "nat_def_unv_detail": "Lisans – Elektronik Mühendisliği",
+    "anatolia_desc": "İşletme süreçleri ile bilişim teknolojilerini birleştiren kapsamlı bir eğitim programında öğrenim görüyorum.\nVeri analizi, bilgi sistemleri yönetimi ve dijital dönüşüm konularında çalışmalar yürütüyorum.",
+    "patika_desc": "Angular, TypeScript ve RESTful API entegrasyonları üzerine odaklanarak modern web uygulamaları geliştirme becerileri kazandım.\nEkip tabanlı projelerde kod inceleme, versiyon kontrolü ve proje planlama deneyimi edindim.",
+    "self_desc": "HTML & CSS ile Duyarlı Web Siteleri\nJavaScript Uzmanı\nİleri Seviye CSS ve SASS\nReact & Redux\nGit – Versiyon Kontrolü\nJava Spring Giriş\nBu dönemde uygulama geliştirerek teorik bilgiyi pratikle birleştirdim.",
+    "nat_def_unv_desc": "Devre tasarımı, sinyal işleme ve sistem entegrasyonu konularında mühendislik eğitimi aldım.\nBu eğitim analitik düşünme, detay odaklılık ve sistematik problem çözme becerilerimi güçlendirdi."
   },
   "certificates": {
     "title": "Sertifikalar",

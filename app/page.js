@@ -14,28 +14,35 @@ export default function Page() {
         👋 {t("about.greeting")}
       </h1>
 
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
-        👶 {t("about.birth")}
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
+        🪪 {t("about.about_me")}
       </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
-        🛫 {t("about.scholarship")}
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
+        🎓 {t("about.graduation")}
       </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
-        👨‍🎓 {t("about.graduation")}
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
+        🌍 {t("about.scholarship")}
       </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
-        🚀{t("about.work_experience")}
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
+        💼{t("about.work_experience")}
       </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
         💻 {t("about.current_position")}
       </p>
-      <p className="text-1xl  mb-2 leading-relaxed text-gray-700">
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
+        ⚙️ {t("about.portfolio")}
+      </p>
+
+      <p className="text-1xl  mb-4 leading-relaxed text-gray-700">
         👨‍👩‍👧‍👦 {t("about.family")}
       </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
-        🪪 {t("about.portfolio")}
-      </p>
-      <p className="text-1xl mb-2 leading-relaxed text-gray-700">
+
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
         📅 {t("about.update")}
       </p>
     </div>
