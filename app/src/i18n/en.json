@@ -54,12 +54,24 @@
     "react-course": "The Ultimate React Course: React, Next.js, Redux",
     "node-course": "Node.js, Express, MongoDB",
     "java-course": "Core Java, Java OOP and Spring",
+    "patika-angular-practicum": " Patika.dev Angular Practicum",
     "html-course": "Web Development with HTML5",
     "website-course": "Website Usability",
     "git-course": "Version Control with Git and Github",
     "btk-react-course": "Web Programming with React",
     "safety-course": "International Flight Safety Officer Course",
     "english": "YDS Exam Result"
+  },
+  "projects": {
+    "title": "Projects",
+    "view-project": "View Project",
+    "private-project": "Private Project",
+    "project_1": "Construction Approval System",
+    "project_1_desc": "An enterprise-level web app for a construction company. Includes complex multi-tab forms (~100 fields), calculations for structural metrics, dynamic charts, and automated PDF report generation for government approval. Built using React, Redux, Material UI, and Tailwind. The backend only stores project data; all computations and PDF generation are handled on the frontend.",
+    "project_2": "EV Charging Management Platform",
+    "project_2_desc": "A complete suite of web apps for electric vehicle charging management, including Admin, Customer (CMP), and Station Management (CSMS) portals. Developed and maintained across React and Angular frameworks with Redux, Bootstrap, Firebase, and WebSocket integration. Built real-time dashboards, live log terminal, firmware update panel, invoicing, and analytics modules. Integrated with hundreds of backend endpoints generated via Swagger from Java APIs.",
+    "project_3": "Nature Balance Guide",
+    "project_3_desc": "An informational website about ecological balance and sustainability."
   },
   "footer": {
     "copyright": "© {{year}} Aytac Serce"

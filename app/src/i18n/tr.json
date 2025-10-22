@@ -54,12 +54,24 @@
     "react-course": "İleri Seviye React Kursu: React, Next.js, Redux",
     "node-course": "Node.js, Express, MongoDB",
     "java-course": "Temel Java, Java OOP ve Spring",
+    "patika-angular-practicum": " Patika.dev Angular Practicum",
     "html-course": "HTML5 ile Web Geliştirme",
     "website-course": "Web Sitesi Kullanılabilirliği",
     "git-course": "Versiyon Kontrolleri: Git ve GitHub",
     "btk-react-course": "React ile Web Programcılığı",
     "safety-course": "Uluslararası Havacılık Güvenliği Eğitimi",
     "english": "YDS Sınav Sonucu"
+  },
+  "projects": {
+    "title": "Projeler",
+    "view-project": "Projeyi Görüntüle",
+    "private-project": "Gizli Proje",
+    "project_1": "Yapı Onay Sistemi",
+    "project_1_desc": "Bir inşaat firması için kurumsal düzeyde web uygulaması. Yaklaşık 100 alan içeren çok sekmeli formlar, yapısal hesaplamalar, dinamik grafikler ve belediye onayı için otomatik PDF rapor üretimi içerir. React, Redux, Material UI ve Tailwind kullanılarak geliştirilmiştir. Backend yalnızca proje verilerini tutar, tüm hesaplamalar ve PDF işlemleri frontend tarafında yapılır.",
+    "project_2": "Elektrikli Araç Şarj Yönetim Platformu",
+    "project_2_desc": "Elektrikli araç şarj yönetimi için geliştirilen üç web uygulamasından oluşan kapsamlı bir platform: Yönetici Paneli, Müşteri Portalı (CMP) ve İstasyon Yönetim Sistemi (CSMS). React, Angular, Redux, Bootstrap, Firebase ve WebSocket teknolojileriyle geliştirilmiştir. Gerçek zamanlı log ekranı, yazılım güncelleme paneli, faturalandırma ve istatistik modülleri içerir. Java tabanlı backend ile Swagger üzerinden yüzlerce API entegrasyonu yapılmıştır.",
+    "project_3": "Doğal Denge Rehberi",
+    "project_3_desc": "Ekolojik denge ve sürdürülebilirliği ön plana alan yerel bir işletmecinin ürünlerinin sergilendiği ve satış için iletişime geçilen bir web sitesi."
   },
   "footer": {
     "copyright": "© {{year}} Aytaç Serçe"

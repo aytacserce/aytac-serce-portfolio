@@ -7,9 +7,9 @@ import { useI18n } from "../src/i18n/i18n";
 const navItems = [
   { href: "/", label: "nav.about" },
   { href: "/career", label: "nav.career" },
-  // { href: "/projects", label: "nav.projects" },
   { href: "/education", label: "nav.education" },
   { href: "/certificates", label: "nav.certificates" },
+  { href: "/projects", label: "nav.projects" },
 ];
 
 export default function Navigation() {
