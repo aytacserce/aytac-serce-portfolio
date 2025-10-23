@@ -71,7 +71,9 @@
     "project_2": "EV Charging Management Platform",
     "project_2_desc": "A complete suite of web apps for electric vehicle charging management, including Admin, Customer (CMP), and Station Management (CSMS) portals. Developed and maintained across React and Angular frameworks with Redux, Bootstrap, Firebase, and WebSocket integration. Built real-time dashboards, live log terminal, firmware update panel, invoicing, and analytics modules. Integrated with hundreds of backend endpoints generated via Swagger from Java APIs.",
     "project_3": "Nature Balance Guide",
-    "project_3_desc": "An informational website about ecological balance and sustainability."
+    "project_3_desc": "An informational website about ecological balance and sustainability.",
+    "project_4": "WBOC Sports",
+    "project_4_desc": "A promotional website for a custom sportswear brand, featuring product catalogs and a contact form."
   },
   "footer": {
     "copyright": "© {{year}} Aytac Serce"

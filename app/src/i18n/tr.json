@@ -71,7 +71,9 @@
     "project_2": "Elektrikli Araç Şarj Yönetim Platformu",
     "project_2_desc": "Elektrikli araç şarj yönetimi için geliştirilen üç web uygulamasından oluşan kapsamlı bir platform: Yönetici Paneli, Müşteri Portalı (CMP) ve İstasyon Yönetim Sistemi (CSMS). React, Angular, Redux, Bootstrap, Firebase ve WebSocket teknolojileriyle geliştirilmiştir. Gerçek zamanlı log ekranı, yazılım güncelleme paneli, faturalandırma ve istatistik modülleri içerir. Java tabanlı backend ile Swagger üzerinden yüzlerce API entegrasyonu yapılmıştır.",
     "project_3": "Doğal Denge Rehberi",
-    "project_3_desc": "Ekolojik denge ve sürdürülebilirliği ön plana alan yerel bir işletmecinin ürünlerinin sergilendiği ve satış için iletişime geçilen bir web sitesi."
+    "project_3_desc": "Ekolojik denge ve sürdürülebilirliği ön plana alan yerel bir işletmecinin ürünlerinin sergilendiği ve satış için iletişime geçilen bir web sitesi.",
+    "project_4": "WBOC Sports",
+    "project_4_desc": "Özel spor giyim markası için geliştirilen, ürün katalogları ve iletişim formu içeren tanıtım web sitesi."
   },
   "footer": {
     "copyright": "© {{year}} Aytaç Serçe"

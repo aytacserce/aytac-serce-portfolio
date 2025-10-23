@@ -38,6 +38,12 @@ export default function Page() {
       link: "https://www.dogaldengerehberi.com/",
       category: "Freelance",
     },
+    {
+      key: "project_4",
+      techStack: ["HTML5", "SASS", "JavaScript"],
+      link: "https://www.wbocsports.com/",
+      category: "Freelance",
+    },
   ];
 
   const ProjectCard = ({ title, description, techStack, projectLink }) => (
