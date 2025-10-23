@@ -27,7 +27,7 @@ export default function Page() {
       </p>
 
       <p className="text-1xl mb-4 leading-relaxed text-gray-700">
-        💼{t("about.work_experience")}
+        💼 {t("about.work_experience")}
       </p>
 
       <p className="text-1xl mb-4 leading-relaxed text-gray-700">
@@ -38,13 +38,24 @@ export default function Page() {
         ⚙️ {t("about.portfolio")}
       </p>
 
-      <p className="text-1xl  mb-4 leading-relaxed text-gray-700">
+      <p className="text-1xl mb-4 leading-relaxed text-gray-700">
         👨‍👩‍👧‍👦 {t("about.family")}
       </p>
 
       <p className="text-1xl mb-4 leading-relaxed text-gray-700">
         📅 {t("about.update")}
       </p>
+
+      {/* Download Resume Button */}
+      <div className="mt-8">
+        <a
+          href="/Aytac_Serce_Resume.pdf"
+          download
+          className="inline-block bg-blue-600 text-white font-semibold px-4 py-2 rounded hover:bg-blue-700 transition"
+        >
+          {t("about.download_resume")}
+        </a>
+      </div>
     </div>
   );
 }
