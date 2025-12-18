@@ -65,8 +65,11 @@
   },
   "projects": {
     "title": "Projeler",
+    "screenshots": "Ekran Görüntüleri",
     "view-project": "Projeyi Görüntüle",
     "private-project": "Gizli Proje",
+    "city_hotel": "The City Hotel",
+    "city_hotel_desc": "Next.js ve Firebase ile geliştirilmiş full-stack rezervasyon platformu. Güvenli Google kimlik doğrulaması (NextAuth) ve kullanıcıya özel rezervasyonları yönetirken oda verilerini koruyan gelişmiş Firestore güvenlik kuralları uygulandı. 'Hakkımızda' sayfası içeriğini dinamik olarak yönetmek için Contentful Headless CMS entegre edildi, böylece kod dağıtımı olmadan içerik güncellemeleri sağlandı.",
     "project_1": "Yapı Onay Sistemi",
     "project_1_desc": "Bir inşaat firması için kurumsal düzeyde web uygulaması. Yaklaşık 100 alan içeren çok sekmeli formlar, yapısal hesaplamalar, dinamik grafikler ve belediye onayı için otomatik PDF rapor üretimi içerir. React, Redux, Material UI ve Tailwind kullanılarak geliştirilmiştir. Backend yalnızca proje verilerini tutar, tüm hesaplamalar ve PDF işlemleri frontend tarafında yapılır.",
     "project_2": "Elektrikli Araç Şarj Yönetim Platformu",

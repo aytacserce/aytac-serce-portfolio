@@ -65,8 +65,11 @@
   },
   "projects": {
     "title": "Projects",
+    "screenshots": "Screenshots",
     "view-project": "View Project",
     "private-project": "Private Project",
+    "city_hotel": "The City Hotel",
+    "city_hotel_desc": "A full-stack booking platform engineered with Next.js and Firebase. Implemented secure Google authentication (NextAuth) and complex Firestore security rules to manage user-specific reservations while keeping room data read-only. Integrated Contentful Headless CMS to dynamically drive the 'About' page content, allowing for real-time updates without code deployment.",
     "project_1": "Construction Approval System",
     "project_1_desc": "An enterprise-level web app for a construction company. Includes complex multi-tab forms (~100 fields), calculations for structural metrics, dynamic charts, and automated PDF report generation for government approval. Built using React, Redux, Material UI, and Tailwind. The backend only stores project data; all computations and PDF generation are handled on the frontend.",
     "project_2": "EV Charging Management Platform",
